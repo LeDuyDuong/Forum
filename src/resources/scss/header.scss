@@ -1,0 +1,18 @@
+.header{
+    text-align: center;
+    color: red;
+    background-color: rgb(63, 42, 137);
+    display: block;
+    flex-direction: row;
+    padding: 40px 20px;
+}
+
+.header .nav-name{
+    padding-left: 20px;
+    font-weight: 700;
+}
+
+.nav-nav > a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
